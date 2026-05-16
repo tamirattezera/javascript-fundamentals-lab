@@ -1,6 +1,6 @@
 // let isLoggedIn = true;
 // let isBlocked = false;
-// let isAdmin = false;
+// let isAdmin = true;
 // let hasSubscription = true;
 // let isVerified = true;
 
