@@ -33,3 +33,8 @@ console.log(analyzeTaskPriority(1, "high", 3));
 console.log(analyzeTaskPriority(5, "medium", 4));
 console.log(analyzeTaskPriority(5, "medium", 10));
 console.log(analyzeTaskPriority(10, "low", 2));
+
+
+
+
+
