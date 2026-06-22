@@ -29,3 +29,40 @@ Output:
 ```js
 [1];
 ```
+
+---
+
+## Test Case 3
+
+Input:
+
+```js
+findRepeatedPhrases(["the", "cat", "sat", "the", "cat", "sat"], 3);
+```
+
+Output:
+
+```js
+[0, 3];
+```
+
+---
+
+## Test Case 4
+
+Input:
+
+```js
+analyzeTexts([["madam", "racecar", "hello", "madam", "racecar"]], 2);
+```
+
+Output:
+
+```js
+[
+  {
+    repeatedPhrases: [0, 3],
+    palindromeBreaks: [2],
+  },
+];
+```
