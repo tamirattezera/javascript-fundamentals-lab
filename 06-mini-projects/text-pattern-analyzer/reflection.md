@@ -18,3 +18,13 @@ The problem was divided into four functions:
 - Modular design improves maintainability.
 - Sliding window techniques are useful for phrase analysis.
 - Complexity analysis helps evaluate efficiency.
+
+
+## Future Improvements
+
+- Ignore punctuation
+- Ignore spaces
+- Phrase frequency analysis
+- JSON export
+- Visualization support
+
