@@ -28,3 +28,28 @@ Add index to breaks
 
 Return breaks
 
+## findRepeatedPhrases
+
+If phraseLength >= words length
+
+Return []
+
+Create phrase map
+
+Create repeated array
+
+Loop through start indices
+
+Build phrase
+
+If phrase not seen
+
+Store index
+
+Else
+
+Store first occurrence if needed
+
+Store current index
+
+Return repeated array
