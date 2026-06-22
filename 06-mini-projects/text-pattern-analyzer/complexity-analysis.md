@@ -2,10 +2,10 @@
 
  Function                   Time Complexity      Space Complexity 
 ------------                  ------                   ------     
- isPalindrome()                  O(n)                   O(n)       
- findPalindromeBreaks()          O(n × m)              O(k)       
- findRepeatedPhrases()          O(n × p)               O(n)                   
- analyzeTexts()               O(t × n × p)             O(t)       
+ isPalindrome()                  O(n)                    O(n)       
+ findPalindromeBreaks()          O(n × m)                O(k)       
+ findRepeatedPhrases()          O(n × p)                 O(n)                   
+ analyzeTexts()                 O(t × n × p)             O(t)       
 
 Where:
 
