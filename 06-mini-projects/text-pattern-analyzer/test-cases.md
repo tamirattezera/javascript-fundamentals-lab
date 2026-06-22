@@ -46,8 +46,6 @@ Output:
 [0, 3];
 ```
 
----
-
 ## Test Case 4
 
 Input:
