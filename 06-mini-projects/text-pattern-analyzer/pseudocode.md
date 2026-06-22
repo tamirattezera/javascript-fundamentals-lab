@@ -2,7 +2,6 @@
 
 ## isPalindrome
 
-
 FUNCTION isPalindrome(word)
 
 Convert word to lowercase
@@ -14,7 +13,6 @@ Compare original and reversed
 Return true if equal
 
 Else return false
-
 
 ## findPalindromeBreaks
 
@@ -53,3 +51,21 @@ Store first occurrence if needed
 Store current index
 
 Return repeated array
+
+## analyzeTexts
+
+If texts is empty
+
+Return []
+
+Create results array
+
+For each text
+
+Find repeated phrases
+
+Find palindrome breaks
+
+Store result object
+
+Return results
