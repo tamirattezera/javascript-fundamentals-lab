@@ -44,3 +44,14 @@ function findRepeatedPhrases(words, phraseLength) {
 
   return repeatedIndices;
 }
+
+function analyzeTexts(texts, phraseLength) {
+  if (texts.length === 0) {
+    return [];
+  }
+
+  return texts.map((words) => ({
+    repeatedPhrases: findRepeatedPhrases(words, phraseLength),
+    palindromeBreaks: findPalindromeBreaks(words),
+  }));
+}
